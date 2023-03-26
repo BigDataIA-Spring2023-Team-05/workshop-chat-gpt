@@ -15,6 +15,6 @@ Input Prompt : 'Generate positional statement of the following resume as the fir
 Input prompt : Write a cover letter of the following resume\n\n{text_from_resume}'
 
 
-##UI 
+## UI 
 This project utilizes streamlit for its UI, streamlit was used to build the front end of the application along with python
 
