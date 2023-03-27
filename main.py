@@ -6,7 +6,7 @@ import PyPDF2
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "GPT_API_KEY"
 
 
 uploaded_file = st.file_uploader("Choose a file")
